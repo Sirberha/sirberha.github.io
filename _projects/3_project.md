@@ -1,77 +1,39 @@
 ---
 layout: page
-title: SIMSAEV
-description: Simulating the environmental and socio-economic effects of SAEVs
-img: assets/img/simsaev.jpg
+title: Informalidad
+description: Factores Socioeconómicos que Influyen en la Informalidad Laboral en el Departamento de Ayacucho, 2022
+img: assets/img/hua.jpg
 importance: 3
 category: project
 ---
 
 
 
-**Project website**:
+**Descripción:**
+<div style="text-align: justify;">
+El proyecto de investigación tiene como objetivo analizar los factores socioeconómicos que contribuyen a la informalidad laboral en el departamento de Ayacucho, Perú. La informalidad laboral es un problema importante que afecta el desarrollo económico y social de la región, y entender sus determinantes es fundamental para diseñar políticas efectivas de inclusión laboral y reducción de la precariedad laboral.
 
-<div class="row" style="margin: 2.0em;">
-	<a class="mr-auto" href="https://www.simsaev.eu" target="_blank">
-	  <img height="70px" src="/assets/img/simsaev.svg">
-	</a>
+El estudio se centrará en identificar las características demográficas, educativas, laborales y socioeconómicas de los trabajadores informales en Ayacucho, así como los factores estructurales que influyen en la elección de empleo informal. Se examinarán aspectos como nivel educativo, género, edad, tipo de ocupación, acceso a servicios básicos, ubicación geográfica, sectores económicos, entre otros.
+
+Se emplearán metodologías cuantitativas y cualitativas, incluyendo encuestas, entrevistas y análisis de datos secundarios, para recopilar información y analizar los determinantes de la informalidad laboral en Ayacucho. Se espera que los resultados de la investigación proporcionen información valiosa para la formulación de políticas públicas orientadas a promover la formalización laboral y mejorar las condiciones de trabajo en la región.
+</div>
+<br>
+
+**Objetivos del Proyecto:**
+
+1. Identificar y analizar los factores socioeconómicos que influyen en la informalidad laboral en el departamento de Ayacucho.
+2. Determinar las características demográficas, educativas y laborales de los trabajadores informales en la región.
+3. Analizar los factores estructurales y contextuales que contribuyen a la elección de empleo informal en Ayacucho.
+4. Proponer recomendaciones de políticas públicas para promover la formalización laboral y mejorar las condiciones de trabajo en el departamento.
+
+**Metodología:**
+<div style="text-align: justify;">
+El proyecto utilizará una combinación de métodos cuantitativos y cualitativos, incluyendo encuestas, entrevistas semiestructuradas y análisis estadístico de datos secundarios. Se realizará un muestreo representativo de la población trabajadora en Ayacucho para recopilar información sobre sus condiciones laborales, características socioeconómicas y percepciones sobre la informalidad laboral.
+
+Se emplearán técnicas de análisis descriptivo, inferecnial y multivariado para identificar los factores asociados con la informalidad laboral y analizar sus interacciones. Además, se realizarán entrevistas en profundidad con empleadores, trabajadores informales y representantes de organizaciones laborales para obtener una comprensión más detallada de los desafíos y oportunidades relacionados con la informalidad laboral en Ayacucho.
 </div>
 
-**Project partners**: Vienna University of Economics and Business (WU, Vienna), International Institute for Applied Systems Analysis (IIASA), Austrian Institute of Technology (AIT)
-
-
-**Funder**: <a href="https://www.klimafonds.gv.at/call/austrian-climate-research-program/" target="_blank">Austria Climate Research Program (ACRP)</a>
-
-
-<div class="row" style="margin: 2.0em;">
-	<a class="mr-auto" href="https://www.klimafonds.gv.at/" target="_blank">
-	  <img height="100px" src="/assets/img/klimafonds.png">
-	</a>
-</div>
-
-**Duration**: 2019-2021
-
-
-**Background**
-
-*Objectives*
-
-* To identify environmental and socioeconomic effects of SAEVs, as wells as synergies and trade-offs between them.
-
-* To extend an agent-based model (ABM) of Vienna’s transport system with a module that allows for the simulation of scenarios related to SAEVs.
-
-* To support the formation of transport policies that lead to a reduction in CO2 emissions, while maintaining an efficient and inclusive transport system.
-
-*Methods*
-
-We use a large-scale multi-agent model that is able to represent the complex interactions between the transportation system, socioeconomic factors and environmental factors. The model is based on the MATSim, a standard research software to simulate mobility patterns for several large cities.
-We simulate different scenarios that differ in their assumption concerning SAEV technology, SAEV market structure, consumer preferences, and policy interventions.
-
-**Role**: Project partner and Work Package lead. My role is to coordinate with WU and AIT to develop various SAEV scenarios for the city of Vienna. Process and analyze the simualtion results, and work on papers that explore the socioeconomic and environmental impacts of introducing SAEVs in the city of Vienna.
-
-
-<div class="row" style="margin: 2.0em;">
-    <div class="col">
-        <img class="img-fluid" img align="bottom" src="{{ '/assets/img/day5_qgis.png' | relative_url }}" alt="" title="Simulated daily exposure to particulate matter"/>
-    </div>
-    <div class="col">
-        <img class="img-fluid" img align="bottom" src="{{ '/assets/img/heatmap.png' | relative_url }}" alt="" title="Emissions dispersion over locations"/>
-    </div>
-</div>
-
-
-
-**Presentations**:
-
-**Papers**:
-
-Naqvi, A., Müller, J., Peer, S., Straub, M. (2021). Accessibility, Socioeconomic and Climate Impacts of Zone-based Shared, Electric, Autonomous Vehicles (SAEVs): A case study of Vienna. *Draft under preparation for submission*
-
-
-Naqvi, A., Peer, S., Müller, J., Straub, M. (2021). Street-level emissions exposure and socioeconomy vulnerability. Evidence for a large-scale micro-simulation for the city of Vienna. *Draft under preparation for the submission*
-
-**Poster**:
-
-<div class="row" style="margin: 2.0em;">
-	  <img width="500px" src="/assets/img/SimSAEV_poster_final.jpg" title="Klimatag 2019 poster" data-zoomable>
+**Resultados Esperados:**
+<div style="text-align: justify;">
+Se espera que el proyecto genere evidencia empírica sólida sobre los factores socioeconómicos que influyen en la informalidad laboral en el departamento de Ayacucho. Los resultados proporcionarán información valiosa para el diseño de políticas públicas y programas de intervención dirigidos a promover la formalización laboral, mejorar las condiciones de trabajo y reducir la precariedad laboral en la región.
 </div>
