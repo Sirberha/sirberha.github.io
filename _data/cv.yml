@@ -71,20 +71,22 @@
   contents:
     - title: Specialization Program in Applied Econometrics with RStudio
       institution: Colegio Economistas del Perú
-      year: 2021 - 2022
+      year: nov2021 - ene2022
   
-    - title: Distributional effects of climate shocks - A macroeconomic perspective (DiOD)
-      institution: ÖNB Jubiläumsfond
-      year: 2021 - 2023
+    - title: Specialization Program in Applied Econometrics
+      institution: LAMBDA: Centro de Capacitación en Economía y Finanzas (Lima, Perú)
+      year: jun2021 - ene2022
       
-    - title: Pakistan's Climate Change Development Report (CCDR)
-      institution: The World Bank
-      year: 2022      
+    - title: Certificate in Applied Econometrics
+      institution: Universidad Nacional de Ingeniería - UNI (Lima, Perú)
+      year: set2020 - ene2021    
       
-    - title: Scaling-up green finance to achieve the climate and energy targets - An assessment of macro-financial opportunities and challenges for Austria (GREENFIN)
-      institution: Austrian Climate Research Program (ACRP)
-      year: 2019 - 2022
-      
+    - title: Specialization Program in Applied Statistics for Research
+      institution: Colegio Estadísticos del Perú y Escuela Americana de Innovación (Lima, Perú)
+      year: abr2019 - jul2019
+
+- title: Courses
+  type: time_table     
     - title: Simulating the environmental and socio-economic effects of shared autonomous electric vehicles - the case of Vienna (SIMSAEV)
       institution: Austrian Climate Research Program (ACRP)
       year: 2018 - 2022
