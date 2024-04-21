@@ -4,12 +4,12 @@
     - name: Name
       value: Sir Bernabé Huamanculí Allccahuamán 
     - name: Topics
-      value: Specialized in applied econometrics, data analysis, and research [UNI]. With interest in economic and social research, and data science.
+      value: Specialized in applied econometrics, data analysis, and research \[UNI\]. With interest in economic and social research, and data science.
 
 - title: Education 
   type: time_table
   contents:
-    - title: M.Sc. in Economics [Business Management]
+    - title: M.Sc. in Economics \[Business Management\]
       institution: Universidad Nacional San Cristóbal de Huamanga, Ayacucho, Perú
       year: 2017 - 2018
 
