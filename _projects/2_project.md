@@ -19,14 +19,11 @@ Además, se emplearán técnicas de análisis estadístico y econométrico para 
 <br>
 
 **Objetivos del Proyecto:**
-<div style="text-align: justify;">
 
 1. Identificar los principales factores que influyen en la duración de la pobreza en el Perú.
 2. Analizar la relación entre estos factores y la persistencia de la pobreza a lo largo del tiempo.
 3. Proporcionar recomendaciones para políticas públicas basadas en evidencia empírica para combatir la pobreza de manera efectiva y sostenible.
-   
-</div>
-<br>
+
 
 **Metodología:**
 <div style="text-align: justify;">
