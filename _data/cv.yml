@@ -109,7 +109,6 @@
 
 - title: Soft Skills
   type: nested_list
-  contents:
-      items:
-        - "<b>Teamwork, leadership, problem-solving, critical thinking, adaptability:</b>"
+  items:
+    - "<b>Teamwork, leadership, problem-solving, critical thinking, adaptability:</b>"
 
