@@ -2,8 +2,8 @@
 layout: page
 title: Pobreza
 description: Factores Determinantes de la Duración de la Pobreza en el Perú
-img: assets/img/greenfin.jpg
-importance: 2
+img: assets/img/pobr.jpg
+importance: 1
 category: project
 ---
 
