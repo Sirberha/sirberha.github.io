@@ -8,6 +8,7 @@ category: project
 ---
 
 <div style="text-align: justify;">
+
 **Objetivo**: Determinar en qué medida el bono familiar universal mejora el consumo de las familias beneficiarias en Perú en el periodo 2020-2021.
 </div>
 <br>
