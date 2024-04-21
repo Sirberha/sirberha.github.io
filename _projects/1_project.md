@@ -8,9 +8,12 @@ category: project
 ---
 
 <div style="text-align: justify;">
-**Objetivo**: Determinar en qué medida el bono familiar universal mejora el consumo de las familias beneficiarias en Perú en el periodo 2020-2021
+**Objetivo**: Determinar en qué medida el bono familiar universal mejora el consumo de las familias beneficiarias en Perú en el periodo 2020-2021.
+  
 </div>
 
+<br>
+<br>
 
 **Description**
 
@@ -21,7 +24,8 @@ La aparición de la pandemia ha desencadenado una serie de eventos y medidas de 
 En ese sentido, es preciso preguntarse, en qué mediad el bono familiar universal ha contribuido a la mejora del gasto en alimentos, en el gasto de medicamentos y cuidados de salud, en los gastos de educación y esparcimiento, vestimenta y en otros gastos en los hogares de la región Ayacucho. Y en consecuencia la investigación busca ayudar a entender mejor la importancia de los bonos destinadas a las familias vulnerables o pobres en un contexto de emergencia sanitaria en los futuros casos parecidos y que permitirá a tomar adecuadas decisiones y la selección de los beneficiarios. Además, a partir de los resultados se puede tomar esfuerzos para poder diseñar políticas de subsidio en situación de emergencia y a ayudar con las capacitaciones sobre qué consumo pueden priorizar y cuáles no, a fin de que las familias beneficiarias pueden satisfacer sus necesidades
 
 </div>
-
+<br>
+<br>
 **Estrategia empírica**
 
 <div style="text-align: justify;">
