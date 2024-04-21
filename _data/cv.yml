@@ -6,7 +6,6 @@
     - name: Topics
       value: Specialized in applied econometrics, data analysis, and research [UNI]. With interest in economic and social research, and data science.
 
-
 - title: Education 
   type: time_table
   contents:
@@ -21,7 +20,6 @@
     - title: Intern in Economics
       institution:  Pontificia Universidad Católica del Perú
       year: 2013 - 2013
-
 
 - title: Work experience
   type: time_table
@@ -46,7 +44,6 @@
       institution: CMAC-Cusco, Perú
       year: 2015 - 2015
 
-
 - title: Teaching experience
   type: time_table
   contents:
@@ -62,7 +59,6 @@
         - Economics I
         - Microeconomics 
 
-  
 - title: Specialization & Diplomas
   type: time_table
   contents: 
@@ -82,45 +78,38 @@
       institution: Colegio Estadísticos del Perú y Escuela Americana de Innovación (Lima, Perú)
       year: abr2019 - jul2019
 
-
-- title: Courses 
-  type: time_table
-  contents: 
-
-  
 - title: Useful Links
   type: nested_list
   contents:
     - title: 
       items:
-        - <a href="https://github.com/asjadnaqvi/stata-treecluster">treecluster</a>, <a href="https://github.com/asjadnaqvi/stata-sunburst">sunburst</a>, <a href="https://github.com/asjadnaqvi/stata-sankey">sankey</a>, <a href="https://github.com/asjadnaqvi/stata-alluvial">alluvial</a>, <a href="https://github.com/asjadnaqvi/stata-circlebar">circlebar</a>, <a href="https://github.com/asjadnaqvi/stata-spider">spider</a>, <a href="https://github.com/asjadnaqvi/stata-treemap">treemap</a>, <a href="https://github.com/asjadnaqvi/stata-circlepack">circlepack</a>, <a href="https://github.com/asjadnaqvi/stata-arcplot">arcplot</a>, <a href="https://github.com/asjadnaqvi/stata-marimekko">marimekko</a>, <a href="https://github.com/asjadnaqvi/stata-bimap">bimap</a>, <a href="https://github.com/asjadnaqvi/stata-joyplot">joyplot</a>, <a href="https://github.com/asjadnaqvi/stata-streamplot">streamplot</a>, <a href="https://github.com/asjadnaqvi/stata-delaunay">delaunay</a>, <a href="https://github.com/asjadnaqvi/stata-clipgeo">clipgeo</a>, <a href="https://github.com/asjadnaqvi/stata-schemepack">schemepack</a>, <a href="https://github.com/friosavila/csdid_drdid">drdid</a>       
-        - <a href="https://medium.com/the-stata-guide">The Stata Guide on Medium</a>
-        - <a href="https://medium.com/the-stata-gallery">The Stata Gallery on Medium</a>
-        - <a href="https://asjadnaqvi.github.io/DiD/">Notes on developments in the Diff-in-diff (DiD) literature</a>
-        - <a href="https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker">COVID-19 European Regional Tracker</a>
-        - <a href="https://github.com/asjadnaqvi/Austria-COVID-19-Tracker">COVID-19 Austrian Tracker</a>
-        - <a href="https://github.com/worldbank/dime-standards">Development Impact Evaluation Unit’s computational reproducibility</a>
-        - <p><a href="https://worldbank.github.io/ietoolkit/">ietoolkit </a> :Stata package for impact evaluation analysis</p>
-        - <p><a href="https://dimewiki.worldbank.org/wiki/Iefieldkit">iefieldkit</a> :Stata package for primary data collection</p>
-        - <p><a href="https://worldbank.github.io/stata-visual-library/">Stata Visual Library</a> :Reproducible code for graphs and maps in an easy-to-browse format</p>
-        - <p><a href="https://worldbank.github.io/r-econ-visual-library/">R Econ Visual Library</a> :R code for data visualization in economics</p>
-        - <p><a href="https://github.com/worldbank/dime-r-training">Introduction to R for advanced Stata users</a></p>
-        - <p><a href="https://rstudio.com/resources/cheatsheets/">RStudio Cheatsheets</a></p>
-        - <p><a href="https://worldbank.github.io/dime-data-handbook/">Development research in practice</a></p>
-        - <p><a href="https://github.com/worldbank/stata-tables">Stata-Latex tables</a></p>
-
+        - "<a href=\"https://github.com/asjadnaqvi/stata-treecluster\">treecluster</a>, <a href=\"https://github.com/asjadnaqvi/stata-sunburst\">sunburst</a>, <a href=\"https://github.com/asjadnaqvi/stata-sankey\">sankey</a>, <a href=\"https://github.com/asjadnaqvi/stata-alluvial\">alluvial</a>, <a href=\"https://github.com/asjadnaqvi/stata-circlebar\">circlebar</a>, <a href=\"https://github.com/asjadnaqvi/stata-spider\">spider</a>, <a href=\"https://github.com/asjadnaqvi/stata-treemap\">treemap</a>, <a href=\"https://github.com/asjadnaqvi/stata-circlepack\">circlepack</a>, <a href=\"https://github.com/asjadnaqvi/stata-arcplot\">arcplot</a>, <a href=\"https://github.com/asjadnaqvi/stata-marimekko\">marimekko</a>, <a href=\"https://github.com/asjadnaqvi/stata-bimap\">bimap</a>, <a href=\"https://github.com/asjadnaqvi/stata-joyplot\">joyplot</a>, <a href=\"https://github.com/asjadnaqvi/stata-streamplot\">streamplot</a>, <a href=\"https://github.com/asjadnaqvi/stata-delaunay\">delaunay</a>, <a href=\"https://github.com/asjadnaqvi/stata-clipgeo\">clipgeo</a>, <a href=\"https://github.com/asjadnaqvi/stata-schemepack\">schemepack</a>, <a href=\"https://github.com/friosavila/csdid_drdid\">drdid</a>"
+        - "<a href=\"https://medium.com/the-stata-guide\">The Stata Guide on Medium</a>"
+        - "<a href=\"https://medium.com/the-stata-gallery\">The Stata Gallery on Medium</a>"
+        - "<a href=\"https://asjadnaqvi.github.io/DiD/\">Notes on developments in the Diff-in-diff (DiD) literature</a>"
+        - "<a href=\"https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker\">COVID-19 European Regional Tracker</a>"
+        - "<a href=\"https://github.com/asjadnaqvi/Austria-COVID-19-Tracker\">COVID-19 Austrian Tracker</a>"
+        - "<a href=\"https://github.com/worldbank/dime-standards\">Development Impact Evaluation Unit’s computational reproducibility</a>"
+        - "<p><a href=\"https://worldbank.github.io/ietoolkit/\">ietoolkit </a> :Stata package for impact evaluation analysis</p>"
+        - "<p><a href=\"https://dimewiki.worldbank.org/wiki/Iefieldkit\">iefieldkit</a> :Stata package for primary data collection</p>"
+        - "<p><a href=\"https://worldbank.github.io/stata-visual-library/\">Stata Visual Library</a> :Reproducible code for graphs and maps in an easy-to-browse format</p>"
+        - "<p><a href=\"https://worldbank.github.io/r-econ-visual-library/\">R Econ Visual Library</a> :R code for data visualization in economics</p>"
+        - "<p><a href=\"https://github.com/worldbank/dime-r-training\">Introduction to R for advanced Stata users</a></p>"
+        - "<p><a href=\"https://rstudio.com/resources/cheatsheets/\">RStudio Cheatsheets</a></p>"
+        - "<p><a href=\"https://worldbank.github.io/dime-data-handbook/\">Development research in practice</a></p>"
+        - "<p><a href=\"https://github.com/worldbank/stata-tables\">Stata-Latex tables</a></p>"
 
 - title: Computer Skills
   type: nested_list
   contents:
     - title:
       items:
-        - <b>Programming languages:</b> Stata, Eviewa13, Maxima, LaTeX, Markdown, MS Office
-        - <b>Intermediate knowledge:</b> R, Python, MATLAB, Julia, Html
-
+        - "<b>Programming languages:</b> Stata, Eviewa13, Maxima, LaTeX, Markdown, MS Office"
+        - "<b>Intermediate knowledge:</b> R, Python, MATLAB, Julia, Html"
 
 - title: Soft Skills
   type: nested_list
   contents:
       items:
-        - <b>Teamwork, leadership, problem-solving, critical thinking, adaptability:</b>
+        - "<b>Teamwork, leadership, problem-solving, critical thinking, adaptability:</b>"
+
