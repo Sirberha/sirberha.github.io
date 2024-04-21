@@ -16,6 +16,7 @@ category: project
 <br>
 
 <br>
+
 **Description**
 
 <div style="text-align: justify;">
@@ -27,6 +28,7 @@ En ese sentido, es preciso preguntarse, en qué mediad el bono familiar universa
 </div>
 <br>
 <br>
+
 **Estrategia empírica**
 
 <div style="text-align: justify;">
