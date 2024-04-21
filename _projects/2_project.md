@@ -16,6 +16,7 @@ El estudio utilizará datos longitudinales y transversales para examinar cómo v
 
 Además, se emplearán técnicas de análisis estadístico y econométrico para cuantificar la relación entre estos factores y la duración de la pobreza. El objetivo es proporcionar evidencia empírica sólida que pueda informar el diseño de políticas públicas más efectivas y dirigidas a combatir la pobreza de manera integral y sostenible en el Perú.
 </div>
+<br>
 
 **Objetivos del Proyecto:**
 <div style="text-align: justify;">
@@ -23,7 +24,9 @@ Además, se emplearán técnicas de análisis estadístico y econométrico para 
 1. Identificar los principales factores que influyen en la duración de la pobreza en el Perú.
 2. Analizar la relación entre estos factores y la persistencia de la pobreza a lo largo del tiempo.
 3. Proporcionar recomendaciones para políticas públicas basadas en evidencia empírica para combatir la pobreza de manera efectiva y sostenible.
+   
 </div>
+<br>
 
 **Metodología:**
 <div style="text-align: justify;">
