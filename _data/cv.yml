@@ -89,33 +89,33 @@
 - title: Courses
   type: time_table  
   contents:
-    - title: Simulating the environmental and socio-economic effects of shared autonomous electric vehicles - the case of Vienna (SIMSAEV)
-      institution: Austrian Climate Research Program (ACRP)
-      year: 2018 - 2022
+    - title: Data science specialization program for macroeconomic analysis and forecasting
+      institution: Centro de Capacitación en Economía y Finanzas (LAMBDA)
+      year: ene2024 - mar2024
      
-    - title: Possibilities of consciously shaping mobility through the application of the principle of sufficiency in the Austrian context (MOBALANCE)
-      institution: FFG (Austria)
-      year: 2018 - 2019
+    - title: Econometrics specialization program using stata and ENAHO
+      institution: Valora Consultoría
+      year: abr2023 - jun2023
       
-    - title: Sustainable Growth in the Presence of Complex Financial Markets
-      institution: ÖNB Jubiläumsfond
-      year: 2017 - 2019
+    - title: Impact evaluation of programs and public policies
+      institution: Proimpacto Escuela de Economía y Políticas Públicas
+      year: jun2023 - ago2023
       
-    - title: Pathways towards a Prosperous and Just EU Bioeconomy (BIOWAY)
-      institution: ÖNB Jubiläumsfond
-      year: 20176 - 2018
+    - title: Impact assessment for public management
+      institution: Consorcio de Investigación Económica y Social-CIES
+      year: may2023 - jul2023
       
-    - title: Microbe Literacy Health Initiative (MLI)
-      institution: UBS Optimus Foundation (Switzerland)
-      year: 2013 - 2016
+    - title: Advanced-level impact evaluation
+      institution: Consorcio de Investigación Económica y Social-CIES
+      year: agos2022
       
-    - title: Building Capacity to use Research Evidence (BCURE)
-      institution: Department for International Development (DfID) (UK)
-      year: 2014 - 2019
+    - title: Data analysis and processing with Stata
+      institution: Consorcio de Investigación Económica y Social-CIES
+      year: jun2022
       
-    - title: Centers for Learning on Evaluation and Results (The CLEAR Initiative)
-      institution: The Independent Evaluation Group (IEG), World Bank (USA)
-      year: 2012 - 2016
+    - title: Applied Python course for Data Science
+      institution: Pontificia Universidad Católica del Perú-PUCP
+      year: may2022 - jun2022
       
 
 - title: Useful Links
