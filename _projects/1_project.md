@@ -7,7 +7,7 @@ importance: 1
 category: project
 ---
 
-
+<div style="text-align: justify;">
 **Objetivo**: Determinar en qué medida el bono familiar universal mejora el consumo de las familias beneficiarias en Perú en el periodo 2020-2021
 
 
@@ -21,3 +21,4 @@ En ese sentido, es preciso preguntarse, en qué mediad el bono familiar universa
 
 EL modelo econométrico de evaluación de impacto es diferencias en diferencias-DID. Este modelo como otros se aplica para evaluar los efectos de una intervención o acciones de políticas sobre la unidad de investigación.
 
+</div>
