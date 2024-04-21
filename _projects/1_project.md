@@ -2,8 +2,8 @@
 layout: page
 title: DID in DID
 description: Impacto de bono familiar universal en el consumo de las familias beneficiarias, Perú 2020-2021
-img: assets/img/diod.jpg
-importance: 1
+img: assets/img/bono1.png
+importance: 2
 category: project
 ---
 
