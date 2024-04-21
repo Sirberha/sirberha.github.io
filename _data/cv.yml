@@ -86,7 +86,8 @@
       year: abr2019 - jul2019
 
 - title: Courses
-  type: time_table     
+  type: time_table  
+  contents:
     - title: Simulating the environmental and socio-economic effects of shared autonomous electric vehicles - the case of Vienna (SIMSAEV)
       institution: Austrian Climate Research Program (ACRP)
       year: 2018 - 2022
