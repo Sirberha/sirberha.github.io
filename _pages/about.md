@@ -21,7 +21,7 @@ Welcome to my personal page. I am an economist specialized in applied econometri
 
 In my role as a professor, I focus on conveying my knowledge in a clear and concise manner, always seeking to foster interest and active participation from my students. Likewise, I strive to stay updated on the latest trends and advancements in the field of economics, in order to provide quality and relevant education for today's world.
 
-As a researcher, I have participated in various projects addressing topics of great importance for economic and social development. My focus is on the practical application of economic theory to generate concrete solutions to the challenges facing our society. In addition to my academic work, I also offer consultancy services in [Research](https://sites.google.com/hasbrc.com/hasb/inicio) and data analysis for companies and institutions requiring a rigorous and professional approach to decision-making.
+As a researcher, I have participated in various projects addressing topics of great importance for economic and social development. My focus is on the practical application of economic theory to generate concrete solutions to the challenges facing our society. In addition to my academic work, I also offer consultancy services in [Research](https://sirberha.github.io/HasbLab/) and data analysis for companies and institutions requiring a rigorous and professional approach to decision-making.
 
 Through this page, I hope to share my passion for economics and research, as well as establish connections with colleagues, students, and professionals interested in these fields. I am open to collaborations and opportunities that can enrich my work and contribute to the advancement of knowledge in the field of economics.
 
