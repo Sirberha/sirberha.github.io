@@ -53,9 +53,6 @@
 - title: Teaching experience
   type: time_table
   contents:
-  - title: Various lectures, workshops, and courses on Stata
-    year: 2020 -
-    
   - title: Economics Program, Bachelors program
     institution: UNSCH, Ayacucho, Perú
     year: 2023 -
@@ -64,7 +61,10 @@
       - Market Research
       - Economics I
       - Microeconomics
-
+      - Economic Growth Theory
+      - Financial Mathematics
+  - title: Various lectures, workshops, and courses on Stata
+    year: 2020 -
       
 - title: Specialization & Diplomas
   type: time_table

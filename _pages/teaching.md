@@ -22,12 +22,14 @@ I regularly offer courses on Stata either online or in person, catering to a wid
 *  Market Research
 *  Economics I
 *  Microeconomics
+*  Economic Growth Theory
+*  Financial Mathematics
 
 ### Computer Language Workshop
 
 *   Stata
 *   R Rstudio 
-*   MATLAB
+*   MatLab
 *   Pyhton
 *   Eviews
 *   Latex
