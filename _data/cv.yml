@@ -89,10 +89,14 @@
 - title: Courses
   type: time_table  
   contents:
+    - title: Curso de Capacitación en Econometría Aplicada Avanzada
+      institution: Pontificia Universidad Católica del Perú (PUCP)
+      year: ene202 - feb2025
+    
     - title: Data science specialization program for macroeconomic analysis and forecasting
       institution: Centro de Capacitación en Economía y Finanzas (LAMBDA)
       year: ene2024 - mar2024
-     
+    
     - title: Econometrics specialization program using stata and ENAHO
       institution: Valora Consultoría
       year: abr2023 - jun2023
