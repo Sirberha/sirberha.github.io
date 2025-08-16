@@ -22,6 +22,10 @@ jobs:
         ruby-version: '3.0.2'
         bundler: 'latest' # <-- AÑADE ESTA LÍNEA
         bundler-cache: true
+  # VVV AÑADE ESTE NUEVO PASO AQUÍ VVV
+    - name: Clean and verify gems
+      run: bundle pristine
+  # ^^^ FIN DEL NUEVO PASO ^^^
     - name: Install deps
       run: |
         npm install -g mermaid.cli
