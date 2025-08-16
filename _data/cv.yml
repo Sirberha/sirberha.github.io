@@ -25,13 +25,17 @@
 - title: Work experience
   type: time_table
   contents:
+  - title: Lecturer in Economics 
+    institution: Universidad Nacional San Cristóbal de Huamanga -UNSCH, Perú
+    year: 2023 -
+
   - title: Independent consultant and researcher
-    institution: HASBrc, Perú
-    year: 2019 -
+    institution: HASBLab, Perú
+    year: 2018 -
     
-  - title: Assistant Professor in Economics 
-    institution: CPUBS-PREUNSCH, Ayacucho, Perú
-    year: 2018 - 
+  #- title: Assistant Professor in Economics 
+  #  institution: CPUBS-PREUNSCH, Ayacucho, Perú
+  #  year: 2018 - 
     
   - title: External auditor
     institution: Ministerio de Economía y Finanzas, Lima, Perú
@@ -43,11 +47,7 @@
     
   - title: Junior Analyst 
     institution: CMAC-Cusco, Perú
-    year: 2015 - 2015
-
-  - title: Lecturer, 
-    institution: University College Lahore, Lahore, Pakistan
-    year: 2001 - 2003
+    year: 2015
 
 
 - title: Teaching experience
@@ -91,7 +91,7 @@
   contents:
     - title: Curso de Capacitación en Econometría Aplicada Avanzada
       institution: Pontificia Universidad Católica del Perú (PUCP)
-      year: ene202 - feb2025
+      year: ene2025 - feb2025
     
     - title: Data science specialization program for macroeconomic analysis and forecasting
       institution: Centro de Capacitación en Economía y Finanzas (LAMBDA)
