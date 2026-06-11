@@ -125,10 +125,10 @@ pagination:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: asjadnaqvi/asjadnaqvi    # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  repo: Sirberha/sirberha.github.io # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDOLw_yzQ
   category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6
+  category_id: DIC_kwDOLw_yzc4C-71H
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
@@ -144,9 +144,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: https://medium.com/the-stata-guide
-    rss_url: https://medium.com/@asjadnaqvi/feed
+#external_sources:
+#  - name: https://medium.com/the-stata-guide
+#    rss_url: https://medium.com/@asjadnaqvi/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -248,8 +248,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Naqvi
-  first_name: [Asjad]
+  last_name: Huamanculí
+  first_name: [Sir Bernabé]
 
   style: apa
   locale: en
