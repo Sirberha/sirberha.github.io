@@ -38,6 +38,7 @@ jobs:
 
       - name: Remove all Ruby caches and lockfile
         run: |
+          sudo rm -rf /opt/hostedtoolcache/Ruby
           rm -rf ~/.bundle ~/.gem vendor Gemfile.lock
 
       - name: Install gems fresh
