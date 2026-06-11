@@ -29,14 +29,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1 # <-- LÍNEA MODIFICADA # v1.161.0
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler: 'latest'    # <-- 1. CAMBIO AÑADIDO
-          bundler-cache: false # <-- 1. CAMBIO AÑADIDO
+          bundler: 'latest'
+          bundler-cache: false
           cache-version: 0
-      - name: Remove old gem cache   # ← nuevo paso
-        run: rm -rf ~/.bundle ~/.gem
+
+      - name: Remove old gem cache
+        run: rm -rf ~/.bundle ~/.gem vendor
+
+      - name: Install gems fresh
+        run: bundle install --force
+
       - name: Clean and verify gems # <-- 2. PASO COMPLETO AÑADIDO
         run: bundle pristine
       - name: Setup Pages
