@@ -33,7 +33,7 @@ jobs:
         with:
           ruby-version: '3.1'
           bundler: 'latest'    # <-- 1. CAMBIO AÑADIDO
-          bundler-cache: true
+          bundler-cache: false # <-- 1. CAMBIO AÑADIDO
           cache-version: 0
       - name: Clean and verify gems # <-- 2. PASO COMPLETO AÑADIDO
         run: bundle pristine
