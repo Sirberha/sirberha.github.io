@@ -36,9 +36,9 @@ jobs:
           bundler-cache: false
           cache-version: 0
 
-      - name: Remove all Ruby caches  # ← paso crítico
+      - name: Remove all Ruby caches and lockfile
         run: |
-          rm -rf ~/.bundle ~/.gem /usr/local/lib/ruby/gems /opt/hostedtoolcache/Ruby
+          rm -rf ~/.bundle ~/.gem vendor Gemfile.lock
 
       - name: Install gems fresh
         run: bundle install --force
