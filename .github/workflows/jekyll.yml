@@ -35,6 +35,8 @@ jobs:
           bundler: 'latest'    # <-- 1. CAMBIO AÑADIDO
           bundler-cache: false # <-- 1. CAMBIO AÑADIDO
           cache-version: 0
+      - name: Remove old gem cache   # ← nuevo paso
+        run: rm -rf ~/.bundle ~/.gem
       - name: Clean and verify gems # <-- 2. PASO COMPLETO AÑADIDO
         run: bundle pristine
       - name: Setup Pages
