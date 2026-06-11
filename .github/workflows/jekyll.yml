@@ -22,12 +22,12 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -36,23 +36,25 @@ jobs:
           bundler-cache: false
           cache-version: 0
 
-      - name: Remove old gem cache
-        run: rm -rf ~/.bundle ~/.gem vendor
+      - name: Remove all Ruby caches  # ← paso crítico
+        run: |
+          rm -rf ~/.bundle ~/.gem /usr/local/lib/ruby/gems /opt/hostedtoolcache/Ruby
 
       - name: Install gems fresh
         run: bundle install --force
 
-      - name: Clean and verify gems # <-- 2. PASO COMPLETO AÑADIDO
-        run: bundle pristine
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+
 
   # Deployment job
   deploy:
